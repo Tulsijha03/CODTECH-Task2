@@ -1,4 +1,3 @@
-# CODTECH-Task2
 # CODTECH-Task2 
 
 **NAME**     : TULSI JHA
