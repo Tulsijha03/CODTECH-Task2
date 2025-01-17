@@ -5,7 +5,7 @@
 **COMPANY**  : CODTECH IT SOLUTIOBS
 **ID**       : CT08DPS
 **DOMAIN**   : Web Development 
-**DURATION** : December - January 2024
+**DURATION** : December - January 2025
 **MENTOR**   : Santhosh
 
 OVERVIEW OF THE PROJECT  
